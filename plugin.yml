@@ -2,4 +2,5 @@ name: GameAPI
 main: mydeacy\gameapi\GameAPI
 api: ["3.5.4"]
 version: 1.0.0
+load: STARTUP
 author: MyDeacy
